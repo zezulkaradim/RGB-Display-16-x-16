@@ -1,0 +1,19 @@
+#pragma once
+#include <Arduino.h>
+
+void telohada1();
+void telohada2();
+void krkhada1();
+void krkhada2();
+void hlavahada1();
+void hlavahada2();
+void hlavahada3();
+void hlavahada4();
+void mainanimacehada();
+void animacemikrofon();
+void tuzka();
+void pacman1();
+void pacman2();
+void pacman3();
+void pacman();
+void joinwifi();
